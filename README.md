@@ -1,8 +1,8 @@
-![example workflow](https://github.com/chrisish71/Sliding-Menu-iOS-Example/actions/workflows/swift.yml/badge.svg)
+![example workflow](https://github.com/chrisish71/Sliding-Drawer-iOS-Example/actions/workflows/swift.yml/badge.svg)
 
-### Sliding Menu iOS
+### Sliding Drawer iOS
 
-Sliding Menu is often used in mobile applications.
+Sliding Drawer is often used in mobile applications.
 The characteristics of use of this type of window are as follows:
 
 - The sliding window can appear from the left or the right of a screen.
