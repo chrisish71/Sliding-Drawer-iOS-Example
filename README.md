@@ -8,6 +8,4 @@ The characteristics of use of this type of window are as follows:
 
 This is an example of Sliding Menu on iOS/Swift:
 
-![Sliding Menu Closed](resources/closed.png "Sliding Menu Closed")
-
-![Sliding Menu Expanded](resources/expanded.png "Sliding Menu Expanded")
+![Sliding Menu Closed](resources/closed.png "Sliding Menu Closed") ![Sliding Menu Expanded](resources/expanded.png "Sliding Menu Expanded")
