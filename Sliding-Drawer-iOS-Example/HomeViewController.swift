@@ -7,14 +7,18 @@
 
 import UIKit
 
-class MainController: UIViewController {
+class HomeViewController: UIViewController {
 
+    public var homeDelegate: HomeDelegate?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
 
-
+    @IBAction func menuPressed(_ sender: UIBarButtonItem) {
+        homeDelegate?.menuDidClicked()
+    }
+    
 }
 
