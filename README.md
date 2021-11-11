@@ -1,3 +1,5 @@
+![example workflow](https://github.com/chrisish71/Sliding-Menu-iOS-Example/actions/workflows/swift.yml/badge.svg)
+
 ### Sliding Menu iOS
 
 Sliding Menu is often used in mobile applications.
